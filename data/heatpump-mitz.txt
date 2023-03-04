@@ -1,0 +1,38 @@
+
+name: Mitsubishi MUZ-FS09
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	1,600	9,600	18,000
+kW	0.11	0.62	1.74
+COP	4.26	4.54	3.03
+Heating	17℉	70℉	Btu/h	1,180	5,900	14,170
+kW	0.26	0.58	1.71
+COP	1.33	2.98	2.43
+Heating	5℉	70℉	Btu/h	960	-	11,590
+kW	0.25	-	1.54
+COP	1.13	-	2.21
+
+name: Mitsubishi MUZ-FS06
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	1,600	8,700	14,000
+kW	0.11	0.55	1.27
+COP	4.26	4.64	3.23
+Heating	17℉	70℉	Btu/h	920	5,900	10,700
+kW	0.08	0.5	1
+COP	3.37	3.46	3.14
+Heating	5℉	70℉	Btu/h	640	-	10,500
+kW	0.06	-	0.91
+COP	3.13	-	3.38
+Heating	-22℉	70℉	Btu/h	-	-	8,000
+kW	-	-	0.91
+
+name: Mitsubishi MUZ-FS18NAH
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	7,540	20,200	30,400
+kW	0.85	1.77	3.4
+COP	2.6	3.34	2.62
+Heating	17℉	70℉	Btu/h	4,300	13,700	24,300
+kW	0.6	1.25	3.39
+COP	2.1	3.21	2.1
+Heating	5℉	70℉	Btu/h	3,700	-	20,900
+kW	0.53	-	2.98
+COP	2.05	-	2.06

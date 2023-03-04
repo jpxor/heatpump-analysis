@@ -1,0 +1,203 @@
+
+name: Mitsubishi MUZ-FS09
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	1,600	9,600	18,000
+kW	0.11	0.62	1.74
+COP	4.26	4.54	3.03
+Heating	17℉	70℉	Btu/h	1,180	5,900	14,170
+kW	0.26	0.58	1.71
+COP	1.33	2.98	2.43
+Heating	5℉	70℉	Btu/h	960	-	11,590
+kW	0.25	-	1.54
+COP	1.13	-	2.21
+
+name: Mitsubishi MUZ-FS06
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	1,600	8,700	14,000
+kW	0.11	0.55	1.27
+COP	4.26	4.64	3.23
+Heating	17℉	70℉	Btu/h	920	5,900	10,700
+kW	0.08	0.5	1
+COP	3.37	3.46	3.14
+Heating	5℉	70℉	Btu/h	640	-	10,500
+kW	0.06	-	0.91
+COP	3.13	-	3.38
+Heating	-22℉	70℉	Btu/h	-	-	8,000
+kW	-	-	0.91
+
+name: Mitsubishi MUZ-FS18NAH
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	7,540	20,200	30,400
+kW	0.85	1.77	3.4
+COP	2.6	3.34	2.62
+Heating	17℉	70℉	Btu/h	4,300	13,700	24,300
+kW	0.6	1.25	3.39
+COP	2.1	3.21	2.1
+Heating	5℉	70℉	Btu/h	3,700	-	20,900
+kW	0.53	-	2.98
+COP	2.05	-	2.06
+
+name: Moovair DM09HOS25230E3
+cutoff: -22F ??
+Heating	47℉	70℉	Btu/h	2,296	10,900	15,125
+kW	0.2	0.83	1.42
+COP	3.36	3.85	3.12
+Heating	17℉	70℉	Btu/h	3,067	6,900	13,890
+kW	0.4	0.74	1.94
+COP	2.25	2.73	2.1
+Heating	5℉	70℉	Btu/h	1,784	-	11,669
+kW	0.39	-	1.92
+COP	1.34	-	1.78
+
+name: Moovair DMA06HOS28230E8
+cutoff: -22F ??
+Heating	47℉	70℉	Btu/h	3,565	7,000	13,241
+kW	0.24	0.52	1.04
+COP	4.35	3.95	3.73
+Heating	17℉	70℉	Btu/h	2,108	8,500	10,041
+kW	0.27	0.86	1.2
+COP	2.29	2.9	2.45
+Heating	5℉	70℉	Btu/h	2,105	7,500	8,581
+kW	0.34	1.05	1.15
+COP	1.81	2.09	2.19
+
+name: Daikin RXM09VVJU
+cutoff: -13F
+Heating	47℉	70℉	Btu/h	4,400	11,000	19,500
+kW	0.21	0.71	1.78
+COP	6.14	4.54	3.21
+Heating	17℉	70℉	Btu/h	2,800	6,600	13,200
+kW	0.19	0.62	1.66
+COP	4.32	3.12	2.33
+Heating	5℉	70℉	Btu/h	2,300	-	11,000
+kW	0.18	-	1.61
+COP	3.74	-	2
+Heating	-13℉	70℉	Btu/h	2,000	-	10,000
+kW	0.18	-	1.6
+COP	3.26	-	1.83
+
+name: Moovair DMA09HOS28230E8
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	2,600	10,000	15,600
+kW	0.21	0.87	1.49
+COP	3.63	3.37	3.07
+Heating	17℉	70℉	Btu/h	1,800	10,100	11,600
+kW	0.18	1.23	1.79
+COP	2.93	2.41	1.9
+Heating	5℉	70℉	Btu/h	1,200	10,800	10,800
+kW	0.17	1.67	1.67
+COP	2.07	1.9	1.9
+Heating	-22℉	70℉	Btu/h	600	-	5,000
+kW	0.16	-	1.4
+COP	1.1	-	1.05
+
+name: Midea 38MARBQ09AA3
+cutoff: -13F
+Heating	47℉	70℉	Btu/h	5,000	11,800	15,400
+kW	0.38	0.91	1.18
+COP	3.86	3.8	3.82
+Heating	17℉	70℉	Btu/h	3,177	7,500	14,270
+kW	0.31	0.73	0.96
+COP	3	3.01	4.36
+Heating	5℉	70℉	Btu/h	5,050	-	11,920
+kW	0.63	-	1.94
+COP	2.35	-	1.8
+
+name: Midea 38MARBQ09AA3->40MBDQ09
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	1,700	10,000	16,100
+kW	0.14	0.81	1.3
+COP	3.56	3.62	3.63
+Heating	17℉	70℉	Btu/h	1,088	6,400	13,880
+kW	0.17	0.99	1.59
+COP	1.88	1.89	2.56
+Heating	5℉	70℉	Btu/h	1,853	-	10,200
+kW	0.19	-	1.66
+COP	2.86	-	1.8
+
+name: Fujitsu AOU9RLFFH
+cutoff: -13F
+Heating	47℉	70℉	Btu/h	3,100	12,000	18,800
+kW	0.2	0.88	1.84
+COP	4.54	4	2.99
+Heating	17℉	70℉	Btu/h	2,320	7,500	14,000
+kW	0.35	0.78	1.97
+COP	1.94	2.82	2.08
+Heating	5℉	70℉	Btu/h	2,115	13,400	14,220
+kW	0.34	2.06	2.25
+COP	1.82	1.91	1.85
+Heating	-15℉	70℉	Btu/h	1,843	-	11,000
+kW	0.38	-	2.07
+COP	1.42	-	1.56
+
+name: Fujitsu AOU9RLS3H
+Heating	47℉	70℉	Btu/h	3,100	12,000	22,000
+kW	0.2	0.66	1.93
+COP	4.54	5.33	3.34
+Heating	17℉	70℉	Btu/h	2,286	7,000	16,000
+kW	0.36	0.61	2.21
+COP	1.86	3.36	2.12
+Heating	5℉	70℉	Btu/h	2,150	-	15,000
+kW	0.37	-	2.25
+COP	1.7	-	1.95
+Heating	-15℉	70℉	Btu/h	1,535	-	11,000
+kW	0.38	-	2.23
+COP	1.18	-	1.45
+
+name: Fujitsu AOUG09LZAH1
+cutoff: -15F
+Heating	47℉	70℉	Btu/h	3,100	12,000	22,000
+kW	0.17	0.66	1.93
+COP	5.34	5.33	3.34
+Heating	17℉	70℉	Btu/h	5,200	7,400	16,000
+kW	0.57	0.62	2.21
+COP	2.67	3.5	2.12
+Heating	5℉	70℉	Btu/h	4,000	15,400	15,400
+kW	0.55	2.25	2.25
+COP	2.13	2.01	2.01
+Heating	-15℉	70℉	Btu/h	2,100	-	11,100
+kW	0.51	-	2.23
+COP	1.21	-	1.46
+
+name: Fujitsu AOUH09LMAH1
+cutoff: -15F
+Heating	47℉	70℉	Btu/h	2,800	12,000	16,000
+kW	0.14	0.79	1.67
+COP	5.86	4.45	2.81
+Heating	17℉	70℉	Btu/h	3,200	7,400	10,550
+kW	0.36	0.68	1.39
+COP	2.61	3.19	2.22
+Heating	5℉	70℉	Btu/h	2,700	-	9,480
+kW	0.33	-	1.28
+COP	2.4	-	2.17
+Heating	-15℉	70℉	Btu/h	2,490	-	5,470
+kW	0.59	-	1.29
+COP	1.24	-	1.24
+
+name: Gree GWH09YD-D3DNA1A
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	2,300	9,000	13,600
+kW	0.2	0.59	1.5
+COP	3.37	4.47	2.66
+Heating	17℉	70℉	Btu/h	2,250	5,600	14,610
+kW	0.2	0.57	1.78
+COP	3.3	2.88	2.41
+Heating	5℉	70℉	Btu/h	1,745	-	12,977
+kW	0.2	-	1.82
+COP	2.56	-	2.09
+
+name: Samsung AC009BXADCH
+cutoff: -13F
+Heating	47℉	70℉	Btu/h	2,900	12,000	16,000
+kW	0.16	1	2.02
+COP	5.31	3.52	2.32
+Heating	17℉	70℉	Btu/h	5,400	12,400	13,500
+kW	0.64	1.94	1.75
+COP	2.47	1.87	2.26
+Heating	5℉	70℉	Btu/h	4,600	11,000	11,000
+kW	0.58	1.66	1.66
+COP	2.32	1.94	1.94
+Heating	-13℉	70℉	Btu/h	3,400	-	6,700
+kW	0.55	-	1.22
+COP	1.81	-	1.61
+

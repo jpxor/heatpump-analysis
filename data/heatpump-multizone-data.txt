@@ -1,0 +1,87 @@
+
+name: Daikin 2MXL18QMVJU
+cutoff: -13F
+Heating	47℉	70℉	Btu/h	7,710	18,900	36,000
+kW	0.47	1.32	3.17
+COP	4.81	4.2	3.33
+Heating	17℉	70℉	Btu/h	5,020	11,400	23,480
+kW	0.41	1.15	2.77
+COP	3.59	2.91	2.48
+Heating	5℉	70℉	Btu/h	4,050	-	18,930
+kW	0.39	-	2.62
+COP	3.04	-	2.12
+
+name: Moovair DMA18HOM23230X2
+cutoff: -22F
+Heating	47℉	70℉	Btu/h	5,700	19,000	24,000
+kW	0.35	1.49	2
+COP	4.77	3.74	3.52
+Heating	17℉	70℉	Btu/h	3,800	14,300	16,000
+kW	0.4	1.68	2.1
+COP	2.78	2.49	2.23
+Heating	5℉	70℉	Btu/h	3,500	-	14,000
+kW	0.45	-	1.85
+COP	2.28	-	2.22
+
+name: Mitsubishi MXZ-2C20NAHZ2
+Heating	47℉	70℉	Btu/h	11,400	22,000	25,500
+kW	0.85	1.61	3.65
+COP	3.93	4	2.05
+Heating	17℉	70℉	Btu/h	13,000	13,000	22,000
+kW	1.6	1.45	3.07
+COP	2.38	2.63	2.1
+Heating	5℉	70℉	Btu/h	14,500	-	22,000
+kW	1.6	-	3.11
+COP	2.66	-	2.07
+
+#name: MrCool DIY-MULTI2-18HP230C
+#cutoff: -22F
+#Heating	47℉	70℉	Btu/h	5,700	19,000	24,000
+#kW	0.35	1.58	2
+#COP	4.77	3.52	3.52
+#Heating	17℉	70℉	Btu/h	3,800	13,500	16,000
+#kW	0.4	1.52	2.1
+#COP	2.78	2.6	2.23
+#Heating	5℉	70℉	Btu/h	3,500	14,000	14,000
+#kW	0.45	2.05	2.05
+#COP	2.28	2	2
+
+name: fujitsu AOU18RLXFZH
+Heating	47℉	70℉	Btu/h	6,200	22,000	24,400
+kW	0.52	1.7	2.02
+COP	3.49	3.79	3.54
+Heating	17℉	70℉	Btu/h	6,619	14,200	23,500
+kW	0.81	1.6	3.18
+COP	2.39	2.6	2.17
+Heating	5℉	70℉	Btu/h	6,210	-	22,000
+kW	0.89	-	3.49
+COP	2.04	-	1.85
+Heating	-15℉	70℉	Btu/h	3,378	-	12,000
+kW	0.55	-	2.14
+COP	1.8	-	1.64
+
+name: LG LMU180HHV
+Heating	47℉	70℉	Btu/h	10,248	22,000	24,000
+kW	1.25	2.22	3.11
+COP	2.4	2.9	2.26
+Heating	17℉	70℉	Btu/h	7,511	14,700	23,600
+kW	1.02	1.72	3.31
+COP	2.16	2.5	2.09
+Heating	5℉	70℉	Btu/h	6,262	-	22,000
+kW	0.91	-	3.48
+COP	2.02	-	1.85
+
+name: Midea 38MGRBQ18BA3
+Heating	47℉	70℉	Btu/h	5,187	19,000	24,890
+kW	0.4	1.47	1.92
+COP	3.8	3.79	3.8
+Heating	17℉	70℉	Btu/h	3,221	11,800	16,800
+kW	0.34	1.24	1.77
+COP	2.78	2.79	2.78
+Heating	5℉	70℉	Btu/h	2,808	-	13,000
+kW	0.47	-	2.18
+COP	1.75	-	1.75
+Heating	-22℉	70℉	Btu/h	8,100	-	9,290
+kW	1.72	-	1.82
+COP	1.38	-	1.5
+

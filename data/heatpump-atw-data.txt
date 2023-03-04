@@ -1,0 +1,53 @@
+
+name: MBTek Apollo 5 Ton
+cutoff: -22F
+Heating	44℉	70℉	Btu/h	47700	- -
+kW	4.173 - - 
+Heating	10℉	70℉	Btu/h	32400 - - 
+kW	4.458 - -
+
+
+name: Enertech Advantage AV030 @ LLT 113F
+cutoff: -13F
+Heating	59℉	70℉	Btu/h	31300	- -
+COP	4.8 - - 
+Heating	41℉	70℉	Btu/h	31300	- -
+COP	3.8 - - 
+Heating	32℉	70℉	Btu/h	31300	- -
+COP	3.35 - - 
+Heating	23℉	70℉	Btu/h	29800 - - 
+COP 2.9 - -
+Heating	5℉	70℉	Btu/h	23000 - - 
+COP 2.25 - -
+Heating	-13℉	70℉	Btu/h	16600 - - 
+COP 1.75 - -
+
+
+name: Enertech Advantage AV060  @ LLT 113F
+cutoff: -13F
+Heating	59℉	70℉	Btu/h	55000	- -
+COP	4.6 - - 
+Heating	41℉	70℉	Btu/h	55000	- -
+COP	3.8 - - 
+Heating	36℉	70℉	Btu/h	55000	- -
+COP	3.6 - - 
+Heating	32℉	70℉	Btu/h	54000	- -
+COP	3.4 - - 
+Heating	23℉	70℉	Btu/h	51000 - - 
+COP	3.1 - - 
+Heating	5℉	70℉	Btu/h	41000 - - 
+COP	2.55 - - 
+Heating	-13℉  70℉	Btu/h	32000 - - 
+COP	2.05 - - 
+
+
+name: Chiltrix CX50 @ LLT 104F
+cutoff: -17F
+Heating	47℉	70℉	Btu/h	55413	- -
+COP	4.132 - - 
+Heating	23℉	70℉	Btu/h	38898 - - 
+COP	3.032 - - 
+Heating	5℉	70℉	Btu/h	29413 - - 
+COP	2.362 - - 
+Heating	-4℉  70℉	Btu/h  25182 - - 
+COP	2.033 - - 
